@@ -6,4 +6,4 @@ To view the YouTube landing page locally on your machine, follow these steps:
 
 1. Clone the repository: git clone https://github.com/Alejo1414/youtube-landing-page.git
 2. Navigate to the project directory: cd youtube-landing-page.
-3. Open the index.html file in your preferred web browser.
+3. Open the youtube.html file in your preferred web browser.
